@@ -1,1 +1,12 @@
-Feature#ObjectURN#ImageURN#manuscriptURN#comments
+Feature#ImageURN#manuscriptURN#documented#comments
+critical signs#urn:cite2:hmt:vaimg.2017a:VA012RN_0013@0.1489,0.3181,0.01985,0.01132#urn:cite:hmt:msA#yes#aristarchan critical signs
+hyphens/slurs#urn:cite2:hmt:vaimg.2017a:VA260RN_0431@0.4035,0.3725,0.1426,0.02531#urn:cite:hmt:msA#partially#mark up on long words
+epic similes#urn:cite2:hmt:vaimg.2017a:VA209RN_0380@0.8121,0.2997,0.06651,0.04509#urn:cite:hmt:msA#yes#denoting the epic similes
+ship numbers#urn:cite2:hmt:vaimg.2017a:VA034RN_0035@0.5339,0.6044,0.03574,0.02891#urn:cite:hmt:msA#yes#denoting the ship counts in the Catalog
+graphics#urn:cite2:hmt:vaimg.2017a:VA004RN_0005@0.5338,0.1088,0.3760,0.8802#urn:cite:hmt:msA#yes#images in the first 12 folios of VA
+connecting signs#urn:cite2:hmt:vaimg.2017a:VA209RN_0380@0.6682,0.3250,0.04514,0.02683#urn:cite:hmt:msA#no#signs that connect scholia to lines they comment on
+reordered lines#urn:cite2:hmt:vaimg.2017a:VA079RN_0080@0.07609,0.2624,0.5597,0.1635#urn:cite:hmt:msA#no#lines that are reinserted or reordered using numbers or symbols
+reordered words#urn:cite2:hmt:vaimg.2017a:VA169VN_0671@0.2892,0.3978,0.01142,0.01162#urn:cite:hmt:msA#no#words that are reordered with numbers
+S marks#urn:cite2:hmt:vaimg.2017a:VA313VN_0815@0.4959,0.5739,0.01142,0.007331#urn:cite:hmt:msA#no#mysterious s marks on words
+slashes#urn:cite2:hmt:vaimg.2017a:VA313VN_0815@0.4959,0.5739,0.01142,0.007331#urn:cite:hmt:msA#no#slash mark next to scholia text, not a connecting sign
+paragraphoi#urn:cite2:hmt:vaimg.2017a:VA317RN_0487@0.1735,0.3592,0.05029,0.02199#urn:cite:hmt:msA#?#horizontal bar denoting paragraphs
