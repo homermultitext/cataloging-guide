@@ -12,6 +12,7 @@ Guide for editors to cataloging non-textual features
 - hyphen ("slur")
 - footnote-like symbols linking text and scholion
 - footnote-like numbers linking text and scholion
+- quire marks
 
 ## Some features specific to the Venetus A manuscript
 
