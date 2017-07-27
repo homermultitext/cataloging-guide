@@ -24,3 +24,9 @@
 ## Some features specific to Omega 1.12
 
 - "markup" identifying personal names
+
+
+## Bankes papyrus
+
+- speaker names
+- line counts
