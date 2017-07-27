@@ -6,6 +6,7 @@ Guide for editors to cataloging non-textual features
 ## Some possibly generic categories of non-textual features
 
 - graphics/illustrations
+- numbering of reordered or inserted lines
 - acronyms (e.g., beginning of *Iliad* 24 in Venetus A)
 - mysterious SS symbol (see notes in *Iliad* 22 working repository)
 - hyphen ("slur")
