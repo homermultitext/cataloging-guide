@@ -1,6 +1,6 @@
-# cataloging-guide
+# Editors' guide: cataloging non-textual features
 
-Guide for editors to cataloging non-textual features
+
 
 
 ## Some possibly generic categories of non-textual features
