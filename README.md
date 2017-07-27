@@ -19,3 +19,7 @@ Guide for editors to cataloging non-textual features
 - critical signs on scholion
 - epic simnile numbers
 - size of contigent in catalog of ships
+
+## Some features specific to Omega 1.12
+
+- "markup" identifying personal names
