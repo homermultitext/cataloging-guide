@@ -26,7 +26,7 @@
 - "markup" identifying personal names
 
 
-## Bankes papyrus
+## Some features specific to Bankes papyrus
 
 - speaker names
 - line counts
