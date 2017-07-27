@@ -30,3 +30,4 @@
 
 - speaker names
 - line counts
+- divider mark to separate words ("opposite of hyphen")
